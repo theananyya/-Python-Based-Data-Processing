@@ -59,6 +59,4 @@ The project generates:
 ## Future Scope
 The processed dataset can be used to build a Machine Learning model to predict customer churn and support business decision-making.
 
-## Author
-Anisha Kumari
-B.Tech CSE | AI & Machine Learning Enthusiast
+
